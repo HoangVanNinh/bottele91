@@ -1,4 +1,4 @@
-telegram_token: ""
-openai_api_key: ""
+telegram_token: "5805508649:AAG4fSBTeXzIGhZ-PR5fA9rQKAuU_j4PWVc"
+openai_api_key: "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"
 allowed_telegram_usernames: []  # if empty, the bot is available to anyone
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
